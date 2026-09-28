@@ -62,6 +62,21 @@ flowchart LR
 
 The focus is not only on building an AI flow, but on delivering it safely across product, engineering, architecture, security, QA, operations, and business stakeholders.
 
+
+---
+
+## ⭐ Featured Hands-On Portfolio Project
+
+### [Banking Service GenAI + Agentic AI Assistant](./projects/banking-service-agent/)
+
+An end-to-end illustrative banking AI project showing how a Technical Program / Delivery Manager can structure a modern GenAI and agentic solution.
+
+**Demonstrates:** RAG, prompt contracts, orchestrator + specialist agents, mock tool/API calls, authentication and human-approval boundaries, guardrails, evaluation strategy, test scenarios, observability concepts, and program-delivery governance.
+
+A small framework-neutral Python simulation is included so the repository demonstrates workflow behavior in addition to architecture and documentation.
+
+> Portfolio project only — no proprietary client code or customer data.
+
 ## Disclaimer
 
 Kore.ai is referenced only as an example platform relevant to conversational AI delivery experience. The artifacts here are independently created generic portfolio examples.
